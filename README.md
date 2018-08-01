@@ -1,2 +1,2 @@
 # CN
-codefoecn
+codeforcn
